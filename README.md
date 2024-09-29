@@ -4,7 +4,7 @@ This repository contains the source code for the tractian challenge, designed to
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/d32c7dfd-4ad2-4cd9-b534-268307b28f70
+![demo video](https://github.com/user-attachments/assets/d32c7dfd-4ad2-4cd9-b534-268307b28f70)
 In this video, you will see the app opening for each company and selecting a filter.
 
 ## Possible Improvements
